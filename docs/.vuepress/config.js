@@ -14,7 +14,8 @@ module.exports = {
           title: 'Day 1',
           collapsable: false,
           children: [
-              '/day1'
+              '/day1',
+              '/day1-task'
           ]
         },
         {

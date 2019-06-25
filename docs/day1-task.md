@@ -2,7 +2,7 @@
 
 <h3>Rectivity exercise</h3>
 
-<h4>참고자료</h4>
+<h4>Task</h4>
 <ul>
-    <li><a href="https://vuejs.org/v2/guide/reactivity.html#ad">Vue Reactivity 구조 설명</a></li>
+    <li><a href="https://cometdev.github.io/vue-camp/1_essentials/tutorials/12_reactivity/exercise.html">Reactivity</a></li>
 </ul>
