@@ -22,7 +22,8 @@ module.exports = {
           title: 'Day 2',
           collapsable: false,
           children: [
-              '/components'
+              '/day2',
+              '/day2-task'
           ]
         }
       ],

@@ -7,7 +7,7 @@
 </li>
 <li><a href="https://docs.google.com/spreadsheets/d/1ea7vPSUweY-HPrkLX3S00dSaX7f-KnVdrHdv7vTSr0c/edit#gid=0" target="_blank">패캠 이메일 공유 - google docs</a></li>
 <li><a href="https://www.facebook.com/groups/336166673949815/" target="_blank">Vue.js 정복 캠프 4기 (Facebook group)</a></li>
-<li><a href="https://joshua1988.github.io" target="_blank">강사님 Github</a></li>
+<li><a href="https://github.com/joshua1988/" target="_blank">강사님 Github</a></li>
 <li><a href="https://github.com/cometdev/" target="_blank">cometdev Github</a></li>
 <li><a href="https://vuepress.vuejs.org/guide/deploy.html#github-pages" target="_blank">Vuepress Template</a> Vuejs.org 같은 형태의 사이트 템플릿</li>
 <li><a href="https://www.inflearn.com" target="_blank">Vue 온라인 강의 사이트</li>
