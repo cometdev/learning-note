@@ -14,7 +14,7 @@ var vm = new Vue();
 >console.log(vm);
 >```
 > 
->![Vue instance 속성, API 확인](/instance_01.png)
+>![Vue instance 속성, API 확인](/learning-note/instance_01.png)
 
 ## 인스턴스를 사용하는 이유
 인스턴스 안에는 Vue로 화면 개발을 하기위한 속성과 메서드가 미리 정의되어 있어 빠르게 화면을 개발해 나갈 수 있다.
