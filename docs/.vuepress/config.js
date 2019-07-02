@@ -39,6 +39,17 @@ module.exports = {
           '/day2/props',
           '/day2/event-emit'
         ]
+      },
+      {
+        title: 'Day 3',
+        collapsable: false,
+        children: [
+          '/day3/day3',
+          '/day3/day3-task',
+          '/day3/template',
+          '/day3/axios',
+          '/day3/vue-cli'
+        ]
       }
     ]
   }
