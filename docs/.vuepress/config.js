@@ -50,6 +50,14 @@ module.exports = {
           '/day3/axios',
           '/day3/vue-cli'
         ]
+      },
+      {
+        title: 'Day 4',
+        collapsable: false,
+        children: [
+          '/day3/day4',
+          '/day3/day4-task'
+        ]
       }
     ]
   }
