@@ -13,7 +13,7 @@ module.exports = {
       {
         title: "Reference",
         collapsable: true,
-        children: ["/common/fav", "/common/markdown"]
+        children: ["/common/fav", "/common/markdown"],
       },
       {
         title: "Day 1",
@@ -22,8 +22,8 @@ module.exports = {
           "/day1/day1",
           "/day1/day1-task",
           "/day1/vuepress",
-          "/day1/instance"
-        ]
+          "/day1/instance",
+        ],
       },
       {
         title: "Day 2",
@@ -34,8 +34,8 @@ module.exports = {
           "/day2/components",
           "/day2/components-communication",
           "/day2/props",
-          "/day2/event-emit"
-        ]
+          "/day2/event-emit",
+        ],
       },
       {
         title: "Day 3",
@@ -45,25 +45,24 @@ module.exports = {
           "/day3/day3-task",
           "/day3/template",
           "/day3/axios",
-          "/day3/vue-cli"
-        ]
+          "/day3/vue-cli",
+        ],
       },
       {
         title: "Day 4",
         collapsable: false,
-        children: [
-          "/day4/day4", 
-          "/day4/day4-task"
-        ]
+        children: ["/day4/day4", "/day4/day4-task"],
       },
       {
         title: "Day 5",
         collapsable: false,
-        children: [
-          "/day5/day5", 
-          "/day5/day5-task"
-        ]
-      }
-    ]
-  }
+        children: ["/day5/day5", "/day5/day5-task"],
+      },
+      {
+        title: "Day 6",
+        collapsable: false,
+        children: ["/day6/day6", "/day6/day6-task"],
+      },
+    ],
+  },
 };

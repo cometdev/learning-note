@@ -38,3 +38,5 @@ Uncaught TypeError: Assignment to constant variable.
 화살표 함수
 
 - 웹 애플리케이션 제작
+
+[babel](https://babeljs.io/) es6 문법을 어떻게 변환시키는지 확인 가능 (Browser polyfill)
