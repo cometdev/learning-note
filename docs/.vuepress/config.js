@@ -17,7 +17,7 @@ module.exports = {
       },
       {
         title: "Day 1",
-        collapsable: true,
+        collapsable: false,
         children: [
           "/day1/day1",
           "/day1/day1-task",
@@ -27,7 +27,7 @@ module.exports = {
       },
       {
         title: "Day 2",
-        collapsable: true,
+        collapsable: false,
         children: [
           "/day2/day2",
           "/day2/day2-task",
@@ -39,7 +39,7 @@ module.exports = {
       },
       {
         title: "Day 3",
-        collapsable: true,
+        collapsable: false,
         children: [
           "/day3/day3",
           "/day3/day3-task",
@@ -50,8 +50,19 @@ module.exports = {
       },
       {
         title: "Day 4",
-        collapsable: true,
-        children: ["/day4/day4", "/day4/day4-task"]
+        collapsable: false,
+        children: [
+          "/day4/day4", 
+          "/day4/day4-task"
+        ]
+      },
+      {
+        title: "Day 5",
+        collapsable: false,
+        children: [
+          "/day5/day5", 
+          "/day5/day5-task"
+        ]
       }
     ]
   }
