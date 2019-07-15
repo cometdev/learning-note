@@ -63,6 +63,11 @@ module.exports = {
         collapsable: false,
         children: ["/day6/day6", "/day6/day6-task"],
       },
+      {
+        title: "Day 7",
+        collapsable: false,
+        children: ["/day7/day7", "/day7/day7-task"],
+      },
     ],
   },
 };
