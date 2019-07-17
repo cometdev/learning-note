@@ -16,4 +16,9 @@ nodejs - path : https://nodejs.org/api/path.html#path_path_resolve_paths
 npm i css-loader style-loader --save-dev
 npm i webpack webpack-cli mini-css-extract-plugin --save-dev
 
-Google Web Starter Kit 깃헙 주소 https://github.com/google/web-starter-kit
+[Google Web Starter Kit 깃헙 주소](https://github.com/google/web-starter-kit)
+
+NodeJS path : [https://nodejs.org/api/path.html#path_path_resolve_paths](https://nodejs.org/api/path.html#path_path_resolve_paths)
+
+Javascript
+[Kent C. Dodds](https://github.com/kentcdodds)
