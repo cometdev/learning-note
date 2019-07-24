@@ -1,9 +1,9 @@
 # Day 8 수업 내용
 
-사용자 Form Validation 기능 구현
-computed 속성
-웹 애플리케이션 제작
-Dynamic Route
+사용자 Form Validation 기능 구현  
+computed 속성  
+웹 애플리케이션 제작  
+Dynamic Route  
 Vuex
 
 날짜 표현 필터 : moment 로 구현하는 걸 추천

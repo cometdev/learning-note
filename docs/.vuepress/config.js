@@ -42,7 +42,6 @@ module.exports = {
         collapsable: false,
         children: [
           "/day3/day3",
-          "/day3/day3-task",
           "/day3/template",
           "/day3/axios",
           "/day3/vue-cli",
@@ -56,22 +55,27 @@ module.exports = {
       {
         title: "Day 5",
         collapsable: false,
-        children: ["/day5/day5", "/day5/day5-task"],
+        children: ["/day5/day5"],
       },
       {
         title: "Day 6",
         collapsable: false,
-        children: ["/day6/day6", "/day6/day6-task"],
+        children: ["/day6/day6"],
       },
       {
         title: "Day 7",
         collapsable: false,
-        children: ["/day7/day7", "/day7/day7-task"],
+        children: ["/day7/day7"],
       },
       {
         title: "Day 8",
         collapsable: false,
-        children: ["/day8/day8", "/day8/day8-task"],
+        children: ["/day8/day8"],
+      },
+      {
+        title: "Day 9",
+        collapsable: false,
+        children: ["/day9/day9"],
       },
     ],
   },
